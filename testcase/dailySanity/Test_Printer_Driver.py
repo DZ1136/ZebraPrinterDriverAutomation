@@ -19,3 +19,8 @@ class Test_Printer_Driver():
     @allure.feature("test_printer_driver_case_64492")
     def test_printer_driver_case_64492(self, function_fixture):
         printer_driver_win_Utilities().printer_driver_testcase_64492()
+
+    @pytest.mark.sso
+    @allure.feature("test_printer_driver_case_64489")
+    def test_printer_driver_case_64489(self, function_fixture):
+        printer_driver_win_Utilities().printer_driver_testcase_64489()
