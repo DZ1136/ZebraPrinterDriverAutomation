@@ -1,0 +1,2 @@
+2025-08-11 17:26:45 INFO create file: C:\Users\dz1136\ZebraPrinterDriverAutomation\log\2025-08-11-17-26-45
+2025-08-11 17:26:45 INFO Error: File not found at C:\ProgramData\Zebra Technologies\ZSBPrinter\product.config, please check the printer tools is installed
